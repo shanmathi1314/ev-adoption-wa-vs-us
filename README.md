@@ -22,8 +22,10 @@ The analysis uses data cleaning, feature engineering, and visualization to uncov
 
 ## Data & Tools
 - **Datasets:**  
-  - Electric Vehicle Population Data (WA Open Data)  
-  - Electric Vehicle Population Size History by County (WA DOL)  
+  - Electric Vehicle Population Data (WA Open Data)
+    Access: https://catalog.data.gov/dataset/electric-vehicle-population-data
+  - Electric Vehicle Population Size History by County (WA DOL)
+    Access: https://catalog.data.gov/dataset/electric-vehicle-population-size-history-by-county
 - **Libraries:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `missingno`  
 - **Environment:** Jupyter Notebook / Google Colab  
 
